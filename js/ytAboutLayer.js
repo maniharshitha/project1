@@ -29,7 +29,7 @@ var ytAboutLayer = (function () {
 
 		var txtList = [
 			"A: I wonder who the programmer of this game is?",
-			"Y: Me, I'm Yuehao.",
+			"Y: Me, I'm harshitha.",
 			"A: Ok, where is the material from?",
 			"Y: To be honest, the material is from the Internet. I think I need to say 'thanks' to these authors.",
 			"A: And would you mind tell me some technical information about this game?",
